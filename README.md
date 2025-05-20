@@ -2,9 +2,10 @@
 
 ### Gesture Recognition
 - 🖐️ **Open Palm** → Jump (↑)
-- ✊ **Closed Fist** → Slide (↓)
+- 👎 **Thumb Down** → Slide (↓)
 - ✌️ **Two-Finger Pointing Right (↗)** → Move Right (→)
 - ✌️ **Two-Finger Pointing Left (↖)** → Move Left (←)
+- ✊ **Closed Fist** → Resting
 
 ### Frameworks
 - **MediaPipe Hand Landmarks** for directional gesture detection
